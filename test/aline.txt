@@ -1,0 +1,1 @@
+if(s.replaceAll("\\s", "")!=null&&s.split("\\s+").length==1) {swfw
